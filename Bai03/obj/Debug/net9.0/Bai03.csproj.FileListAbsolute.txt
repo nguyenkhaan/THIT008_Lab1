@@ -1,0 +1,14 @@
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\bin\Debug\net9.0\Bai03.exe
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\bin\Debug\net9.0\Bai03.deps.json
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\bin\Debug\net9.0\Bai03.runtimeconfig.json
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\bin\Debug\net9.0\Bai03.dll
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\bin\Debug\net9.0\Bai03.pdb
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.AssemblyInfoInputs.cache
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.AssemblyInfo.cs
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.csproj.CoreCompileInputs.cache
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.dll
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\refint\Bai03.dll
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.pdb
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\Bai03.genruntimeconfig.cache
+C:\ProgramData\PhoenixOS\0ptional\workspace\C#\BTTH1_NguyenKhaAn_24520059\Bai03\obj\Debug\net9.0\ref\Bai03.dll
