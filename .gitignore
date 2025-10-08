@@ -1,0 +1,5 @@
+# Bỏ qua file .sln
+*.sln
+
+# Bỏ qua thư mục .idea (JetBrains IDE settings)
+.idea/
